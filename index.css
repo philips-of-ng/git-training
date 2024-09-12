@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: rgba(128, 128, 128, 0.221);
+}
+
+h1{
+  font-size: 3em;
+  color: #fff;
+  background-color: blue;
+  text-align: center;
+}
+
+div{
+  text-transform: capitalize;
+  font-size: 1.2em;
+}
